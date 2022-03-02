@@ -1,0 +1,148 @@
+
+body{
+background: #f2f2f2;
+}
+
+input[type=submit]{
+background-color: black;
+color:white;
+font-size: 16px;
+padding: 20px;
+border-radius:25px;
+cursor: pointer;
+}
+.mylink button {
+  background-color: black;
+  color:white;
+  font-size: 16px;
+  padding: 20px;
+  border-radius:25px;
+  cursor: pointer;
+  }
+
+#formD{
+  display: block;
+}
+
+.mylink:hover {
+  background-color: orange;
+  }
+
+  
+.border_1{
+border:1px solid;
+border-color:grey;
+width:270px;
+height: 320px;
+background-color:white;
+border-radius: 20px;
+cursor: pointer;
+float: right;
+}
+
+
+.border_3{
+border:5px solid;
+border-color:white;
+width:300px;
+height: 320px;
+border-radius: 20px;
+background-color: white;
+}
+
+.gallery-links{
+  display: flex;
+  flex-flow: row wrap;
+  justify-content:center;
+}
+
+.gallery-img{
+  flex-basis: 80%;
+  flex-basis: 200px;
+  margin: 10px;
+}
+
+
+.gallery-img img{
+width: 89%;
+height: 75%;
+}
+
+
+/* On smaller screens, decrease text size */
+@media only screen and (max-width: 662px) {
+.prt1 {font-size: 28px}
+
+.gallery-img{
+    flex-basis: 200px;
+    
+}
+}
+
+.imgD{
+border-radius: 25px;
+}
+
+/* the code end here */
+
+/* this is anthor section of code for image hover */
+.containerss {
+position: relative;
+}
+
+.image {
+opacity: 1;
+display: block;
+width: 100%;
+height: auto;
+transition: .5s ease;
+backface-visibility: hidden;
+border-radius: 20px;
+}
+
+.middle {
+transition: .5s ease;
+opacity: 0;
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+-ms-transform: translate(-50%, -50%);
+text-align: center;
+}
+
+.containerss:hover .image {
+opacity: 0.3;
+}
+
+.containerss:hover .middle {
+opacity: 1;
+}
+
+.Text1{
+color:blueviolet;
+  font-family: florence, cursive;
+}
+
+.Text2{
+color:blueviolet;
+  font-family: florence, cursive;
+  padding: 20px;
+}
+
+/* On smaller screens, decrease text size */
+@media only screen and (max-width: 762px) {
+.prt1 {font-size: 28px}
+
+.gallery-img{
+    flex-basis: 300px;
+    
+}
+}
+
+
+.prt1{
+  text-align:center;
+  color:blueviolet;
+  font-family: florence, cursive;
+} 

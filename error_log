@@ -1,0 +1,372 @@
+[28-Feb-2022 08:39:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/head.php:5) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/check_user.php on line 79
+[28-Feb-2022 08:39:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/head.php:5) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/sales and deals.php on line 7
+[28-Feb-2022 08:40:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/head.php:5) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/check_user.php on line 79
+[28-Feb-2022 08:40:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/vendor.php on line 293
+[28-Feb-2022 08:41:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/head.php:5) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/check_user.php on line 79
+[28-Feb-2022 09:04:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/head.php:5) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/check_user.php on line 79
+[28-Feb-2022 09:04:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/vendor.php on line 293
+[28-Feb-2022 09:04:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/head.php:5) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/check_user.php on line 79
+[28-Feb-2022 09:18:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/head.php:5) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/check_user.php on line 79
+[28-Feb-2022 09:18:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/vendor.php on line 293
+[28-Feb-2022 09:19:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/vendor.php on line 293
+[28-Feb-2022 09:19:22 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/head.php on line 2
+[28-Feb-2022 09:19:22 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/event_view.php on line 65
+[28-Feb-2022 09:19:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/head.php:5) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/check_user.php on line 79
+[28-Feb-2022 09:20:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/head.php:5) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/sales and deals.php on line 7
+[28-Feb-2022 09:20:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/head.php:5) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/sales and deals.php on line 7
+[28-Feb-2022 09:20:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/head.php:5) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/sales and deals.php on line 7
+[28-Feb-2022 09:20:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/head.php:5) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/sales and deals.php on line 7
+[28-Feb-2022 09:20:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/head.php:5) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/sales and deals.php on line 7
+[28-Feb-2022 09:20:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/head.php:5) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/sales and deals.php on line 7
+[28-Feb-2022 09:20:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/head.php:5) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/sales and deals.php on line 7
+[28-Feb-2022 09:20:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/head.php:5) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/sales and deals.php on line 7
+[28-Feb-2022 09:20:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/head.php:5) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/sales and deals.php on line 7
+[28-Feb-2022 09:21:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/head.php:5) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/sales and deals.php on line 7
+[28-Feb-2022 09:25:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/head.php:5) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/check_user.php on line 79
+[28-Feb-2022 09:25:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/head.php:5) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/sales and deals.php on line 7
+[28-Feb-2022 09:25:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/head.php:5) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/sales and deals.php on line 7
+[28-Feb-2022 09:25:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/head.php:5) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/sales and deals.php on line 7
+[28-Feb-2022 09:25:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/head.php:5) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/sales and deals.php on line 7
+[28-Feb-2022 09:27:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/head.php:5) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/check_user.php on line 79
+[28-Feb-2022 09:27:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/vendor.php on line 293
+[28-Feb-2022 09:29:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/head.php:5) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/check_user.php on line 79
+[28-Feb-2022 09:32:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/head.php:5) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/sales and deals.php on line 7
+[28-Feb-2022 09:32:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/head.php:5) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/sales and deals.php on line 7
+[28-Feb-2022 09:32:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/head.php:5) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/sales and deals.php on line 7
+[28-Feb-2022 09:32:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/head.php:5) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/sales and deals.php on line 7
+[28-Feb-2022 09:35:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/head.php:5) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/check_user.php on line 79
+[28-Feb-2022 09:35:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/head.php:5) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/check_user.php on line 79
+[28-Feb-2022 09:35:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/vendor.php on line 293
+[28-Feb-2022 09:35:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/head.php:5) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/check_user.php on line 79
+[28-Feb-2022 09:36:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/head.php:5) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/sales and deals.php on line 7
+[28-Feb-2022 09:36:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/head.php:5) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/sales and deals.php on line 7
+[28-Feb-2022 09:36:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/head.php:5) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/sales and deals.php on line 7
+[28-Feb-2022 09:36:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/head.php:5) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/sales and deals.php on line 7
+[28-Feb-2022 09:37:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/head.php:5) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/sales and deals.php on line 7
+[28-Feb-2022 09:37:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/head.php:5) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/sales and deals.php on line 7
+[28-Feb-2022 09:37:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/head.php:5) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/sales and deals.php on line 7
+[28-Feb-2022 09:37:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/head.php:5) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/sales and deals.php on line 7
+[28-Feb-2022 09:37:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/head.php:5) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/sales and deals.php on line 7
+[28-Feb-2022 09:38:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/head.php:5) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/sales and deals.php on line 7
+[28-Feb-2022 09:38:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/head.php:5) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/sales and deals.php on line 7
+[28-Feb-2022 09:38:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/head.php:5) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/sales and deals.php on line 7
+[28-Feb-2022 09:38:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/head.php:5) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/sales and deals.php on line 7
+[28-Feb-2022 09:41:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/head.php:5) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/favorite.php on line 108
+[28-Feb-2022 09:43:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/head.php:5) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/favorite.php on line 108
+[28-Feb-2022 09:44:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/head.php:5) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/sales and deals.php on line 7
+[28-Feb-2022 09:44:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/head.php:5) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/sales and deals.php on line 7
+[28-Feb-2022 09:44:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/head.php:5) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/sales and deals.php on line 7
+[28-Feb-2022 09:44:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/head.php:5) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/sales and deals.php on line 7
+[28-Feb-2022 09:44:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/head.php:5) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/sales and deals.php on line 7
+[28-Feb-2022 09:45:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/head.php:5) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/sales and deals.php on line 7
+[28-Feb-2022 09:45:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/head.php:5) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/sales and deals.php on line 7
+[28-Feb-2022 09:45:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/head.php:5) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/sales and deals.php on line 7
+[28-Feb-2022 09:45:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/head.php:5) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/sales and deals.php on line 7
+[28-Feb-2022 09:49:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/head.php:5) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/sales and deals.php on line 7
+[28-Feb-2022 09:49:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/head.php:5) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/favorite.php on line 108
+[28-Feb-2022 09:50:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/head.php:5) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/sales and deals.php on line 7
+[28-Feb-2022 09:50:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/head.php:5) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/sales and deals.php on line 7
+[28-Feb-2022 09:50:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/head.php:5) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/sales and deals.php on line 7
+[28-Feb-2022 09:50:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/head.php:5) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/check_user.php on line 79
+[28-Feb-2022 09:50:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/head.php:5) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/check_user.php on line 79
+[28-Feb-2022 09:51:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/vendor.php on line 293
+[28-Feb-2022 09:51:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/vendor.php on line 293
+[28-Feb-2022 09:52:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/head.php:5) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/check_user.php on line 79
+[28-Feb-2022 09:52:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/head.php:5) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/check_user.php on line 79
+[28-Feb-2022 09:52:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/vendor.php on line 293
+[28-Feb-2022 09:53:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/vendor.php on line 293
+[28-Feb-2022 09:53:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/head.php:5) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/check_user.php on line 79
+[01-Mar-2022 08:59:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/head.php:5) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/sales and deals.php on line 7
+[01-Mar-2022 08:59:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/head.php:5) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/sales and deals.php on line 7
+[01-Mar-2022 08:59:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/head.php:5) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/sales and deals.php on line 7
+[01-Mar-2022 08:59:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/head.php:5) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/sales and deals.php on line 7
+[01-Mar-2022 09:00:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/head.php:5) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/check_user.php on line 79
+[01-Mar-2022 09:13:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/head.php:5) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/check_user.php on line 79
+[01-Mar-2022 09:14:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/vendor.php on line 293
+[01-Mar-2022 09:25:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/head.php:5) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/check_user.php on line 79
+[01-Mar-2022 09:25:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/vendor.php on line 293
+[01-Mar-2022 09:26:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/vendor.php on line 293
+[01-Mar-2022 09:26:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/head.php:5) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/check_user.php on line 79
+[02-Mar-2022 07:36:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/head.php:5) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/check_user.php on line 79
+[02-Mar-2022 07:56:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/head.php:5) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/check_user.php on line 79
+[02-Mar-2022 07:56:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/head.php:5) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/sales and deals.php on line 7
+[02-Mar-2022 07:56:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/head.php:5) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/sales and deals.php on line 7
+[02-Mar-2022 07:56:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/head.php:5) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/sales and deals.php on line 7
+[02-Mar-2022 08:43:16 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 3
+[02-Mar-2022 08:43:16 UTC] PHP Warning:  include(admin_details.php): failed to open stream: No such file or directory in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/admin_dashboard.php on line 100
+[02-Mar-2022 08:43:16 UTC] PHP Warning:  include(admin_details.php): failed to open stream: No such file or directory in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/admin_dashboard.php on line 100
+[02-Mar-2022 08:43:16 UTC] PHP Warning:  include(): Failed opening 'admin_details.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/admin_dashboard.php on line 100
+[02-Mar-2022 08:46:47 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 3
+[02-Mar-2022 08:46:47 UTC] PHP Warning:  include(admin_details.php): failed to open stream: No such file or directory in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/admin_dashboard.php on line 100
+[02-Mar-2022 08:46:47 UTC] PHP Warning:  include(admin_details.php): failed to open stream: No such file or directory in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/admin_dashboard.php on line 100
+[02-Mar-2022 08:46:47 UTC] PHP Warning:  include(): Failed opening 'admin_details.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/admin_dashboard.php on line 100
+[02-Mar-2022 08:49:03 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 3
+[02-Mar-2022 08:49:03 UTC] PHP Warning:  include(admin_details.php): failed to open stream: No such file or directory in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/admin_dashboard.php on line 100
+[02-Mar-2022 08:49:03 UTC] PHP Warning:  include(admin_details.php): failed to open stream: No such file or directory in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/admin_dashboard.php on line 100
+[02-Mar-2022 08:49:03 UTC] PHP Warning:  include(): Failed opening 'admin_details.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/admin_dashboard.php on line 100
+[02-Mar-2022 08:49:54 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 3
+[02-Mar-2022 08:49:54 UTC] PHP Warning:  include(admin_details.php): failed to open stream: No such file or directory in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/admin_dashboard.php on line 100
+[02-Mar-2022 08:49:54 UTC] PHP Warning:  include(admin_details.php): failed to open stream: No such file or directory in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/admin_dashboard.php on line 100
+[02-Mar-2022 08:49:54 UTC] PHP Warning:  include(): Failed opening 'admin_details.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/admin_dashboard.php on line 100
+[02-Mar-2022 08:49:59 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 3
+[02-Mar-2022 08:49:59 UTC] PHP Warning:  include(admin_details.php): failed to open stream: No such file or directory in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/admin_dashboard.php on line 100
+[02-Mar-2022 08:49:59 UTC] PHP Warning:  include(admin_details.php): failed to open stream: No such file or directory in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/admin_dashboard.php on line 100
+[02-Mar-2022 08:49:59 UTC] PHP Warning:  include(): Failed opening 'admin_details.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/admin_dashboard.php on line 100
+[02-Mar-2022 08:50:30 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 3
+[02-Mar-2022 08:50:30 UTC] PHP Warning:  include(admin_details.php): failed to open stream: No such file or directory in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/admin_dashboard.php on line 101
+[02-Mar-2022 08:50:30 UTC] PHP Warning:  include(admin_details.php): failed to open stream: No such file or directory in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/admin_dashboard.php on line 101
+[02-Mar-2022 08:50:30 UTC] PHP Warning:  include(): Failed opening 'admin_details.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/admin_dashboard.php on line 101
+[02-Mar-2022 08:51:22 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 3
+[02-Mar-2022 08:51:22 UTC] PHP Warning:  include(admin_details.php): failed to open stream: No such file or directory in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/admin_dashboard.php on line 101
+[02-Mar-2022 08:51:22 UTC] PHP Warning:  include(admin_details.php): failed to open stream: No such file or directory in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/admin_dashboard.php on line 101
+[02-Mar-2022 08:51:22 UTC] PHP Warning:  include(): Failed opening 'admin_details.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/admin_dashboard.php on line 101
+[02-Mar-2022 08:51:31 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 3
+[02-Mar-2022 08:51:31 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 114
+[02-Mar-2022 08:51:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::error() in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php:114
+Stack trace:
+#0 {main}
+  thrown in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 114
+[02-Mar-2022 08:51:42 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 3
+[02-Mar-2022 08:51:42 UTC] PHP Warning:  include(admin_details.php): failed to open stream: No such file or directory in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/admin_dashboard.php on line 101
+[02-Mar-2022 08:51:42 UTC] PHP Warning:  include(admin_details.php): failed to open stream: No such file or directory in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/admin_dashboard.php on line 101
+[02-Mar-2022 08:51:42 UTC] PHP Warning:  include(): Failed opening 'admin_details.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/admin_dashboard.php on line 101
+[02-Mar-2022 08:53:48 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 3
+[02-Mar-2022 08:53:48 UTC] PHP Warning:  include(admin_details.php): failed to open stream: No such file or directory in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/admin_dashboard.php on line 101
+[02-Mar-2022 08:53:48 UTC] PHP Warning:  include(admin_details.php): failed to open stream: No such file or directory in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/admin_dashboard.php on line 101
+[02-Mar-2022 08:53:48 UTC] PHP Warning:  include(): Failed opening 'admin_details.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/admin_dashboard.php on line 101
+[02-Mar-2022 08:53:59 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 3
+[02-Mar-2022 08:53:59 UTC] PHP Warning:  include(admin_details.php): failed to open stream: No such file or directory in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/admin_dashboard.php on line 103
+[02-Mar-2022 08:53:59 UTC] PHP Warning:  include(admin_details.php): failed to open stream: No such file or directory in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/admin_dashboard.php on line 103
+[02-Mar-2022 08:53:59 UTC] PHP Warning:  include(): Failed opening 'admin_details.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/admin_dashboard.php on line 103
+[02-Mar-2022 08:55:27 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 3
+[02-Mar-2022 08:55:27 UTC] PHP Warning:  include(admin_details.php): failed to open stream: No such file or directory in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/admin_dashboard.php on line 103
+[02-Mar-2022 08:55:27 UTC] PHP Warning:  include(admin_details.php): failed to open stream: No such file or directory in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/admin_dashboard.php on line 103
+[02-Mar-2022 08:55:27 UTC] PHP Warning:  include(): Failed opening 'admin_details.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/admin_dashboard.php on line 103
+[02-Mar-2022 08:56:53 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 3
+[02-Mar-2022 08:56:53 UTC] PHP Warning:  include(admin_details.php): failed to open stream: No such file or directory in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/admin_dashboard.php on line 103
+[02-Mar-2022 08:56:53 UTC] PHP Warning:  include(admin_details.php): failed to open stream: No such file or directory in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/admin_dashboard.php on line 103
+[02-Mar-2022 08:56:53 UTC] PHP Warning:  include(): Failed opening 'admin_details.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/admin_dashboard.php on line 103
+[02-Mar-2022 08:59:02 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 3
+[02-Mar-2022 09:01:22 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 3
+[02-Mar-2022 09:10:25 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 3
+[02-Mar-2022 09:11:28 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 3
+[02-Mar-2022 09:11:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/head.php:5) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/sales and deals.php on line 7
+[02-Mar-2022 09:12:33 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 3
+[02-Mar-2022 09:18:01 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 3
+[02-Mar-2022 09:20:58 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 3
+[02-Mar-2022 09:20:58 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 84
+[02-Mar-2022 09:20:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::error() in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php:84
+Stack trace:
+#0 {main}
+  thrown in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 84
+[02-Mar-2022 09:30:18 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 3
+[02-Mar-2022 09:30:18 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 84
+[02-Mar-2022 09:30:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::error() in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php:84
+Stack trace:
+#0 {main}
+  thrown in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 84
+[02-Mar-2022 09:30:31 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 3
+[02-Mar-2022 09:30:46 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 3
+[02-Mar-2022 09:30:46 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 25
+[02-Mar-2022 09:30:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::error() in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 25
+[02-Mar-2022 09:31:07 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 3
+[02-Mar-2022 09:31:17 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 3
+[02-Mar-2022 09:31:17 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 84
+[02-Mar-2022 09:31:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::error() in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php:84
+Stack trace:
+#0 {main}
+  thrown in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 84
+[02-Mar-2022 09:31:23 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 3
+[02-Mar-2022 09:31:27 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 3
+[02-Mar-2022 09:31:27 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 25
+[02-Mar-2022 09:31:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::error() in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 25
+[02-Mar-2022 09:31:47 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 3
+[02-Mar-2022 09:31:56 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 3
+[02-Mar-2022 09:31:56 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 114
+[02-Mar-2022 09:31:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::error() in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php:114
+Stack trace:
+#0 {main}
+  thrown in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 114
+[02-Mar-2022 09:32:00 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 3
+[02-Mar-2022 09:32:00 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 114
+[02-Mar-2022 09:32:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::error() in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php:114
+Stack trace:
+#0 {main}
+  thrown in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 114
+[02-Mar-2022 09:32:02 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 3
+[02-Mar-2022 09:32:10 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 3
+[02-Mar-2022 09:32:10 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 10
+[02-Mar-2022 09:32:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::error() in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 10
+[02-Mar-2022 09:32:14 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 3
+[02-Mar-2022 09:32:41 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 3
+[02-Mar-2022 09:32:41 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 114
+[02-Mar-2022 09:32:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::error() in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php:114
+Stack trace:
+#0 {main}
+  thrown in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 114
+[02-Mar-2022 09:32:44 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 3
+[02-Mar-2022 09:32:49 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 3
+[02-Mar-2022 09:32:49 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 114
+[02-Mar-2022 09:32:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::error() in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php:114
+Stack trace:
+#0 {main}
+  thrown in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 114
+[02-Mar-2022 09:32:53 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 3
+[02-Mar-2022 09:32:56 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 3
+[02-Mar-2022 09:32:56 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 84
+[02-Mar-2022 09:32:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::error() in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php:84
+Stack trace:
+#0 {main}
+  thrown in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 84
+[02-Mar-2022 09:32:58 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 3
+[02-Mar-2022 09:35:06 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 3
+[02-Mar-2022 09:35:17 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 3
+[02-Mar-2022 09:35:17 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 25
+[02-Mar-2022 09:35:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::error() in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php:25
+Stack trace:
+#0 /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/admin_dashboard.php(76): require_once()
+#1 {main}
+  thrown in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 25
+[02-Mar-2022 09:35:30 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 3
+[02-Mar-2022 09:35:48 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 3
+[02-Mar-2022 09:35:48 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 84
+[02-Mar-2022 09:35:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::error() in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php:84
+Stack trace:
+#0 /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/admin_dashboard.php(76): require_once()
+#1 {main}
+  thrown in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 84
+[02-Mar-2022 09:36:54 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 3
+[02-Mar-2022 09:36:54 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 84
+[02-Mar-2022 09:36:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::error() in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php:84
+Stack trace:
+#0 /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/admin_dashboard.php(76): require_once()
+#1 {main}
+  thrown in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 84
+[02-Mar-2022 09:36:57 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 3
+[02-Mar-2022 09:37:34 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 3
+[02-Mar-2022 09:38:57 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 3
+[02-Mar-2022 09:39:04 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 3
+[02-Mar-2022 09:39:04 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 25
+[02-Mar-2022 09:39:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::error() in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 25
+[02-Mar-2022 09:46:04 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 3
+[02-Mar-2022 09:46:04 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 25
+[02-Mar-2022 09:46:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::error() in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 25
+[02-Mar-2022 09:46:06 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 3
+[02-Mar-2022 09:46:19 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 3
+[02-Mar-2022 09:46:19 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 25
+[02-Mar-2022 09:46:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::error() in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 25
+[02-Mar-2022 09:46:30 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 3
+[02-Mar-2022 09:47:43 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 3
+[02-Mar-2022 09:48:05 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 3
+[02-Mar-2022 09:49:58 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 3
+[02-Mar-2022 09:50:08 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 3
+[02-Mar-2022 09:50:08 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 10
+[02-Mar-2022 09:50:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::error() in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 10
+[02-Mar-2022 09:50:14 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 3
+[02-Mar-2022 09:50:24 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 3
+[02-Mar-2022 09:50:24 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 54
+[02-Mar-2022 09:50:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::error() in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 54
+[02-Mar-2022 11:49:07 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 3
+[02-Mar-2022 11:49:28 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 3
+[02-Mar-2022 11:49:54 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 3
+[02-Mar-2022 11:49:54 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 25
+[02-Mar-2022 11:49:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::error() in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 25
+[02-Mar-2022 11:50:08 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 3
+[02-Mar-2022 11:51:10 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 3
+[02-Mar-2022 11:51:10 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 40
+[02-Mar-2022 11:51:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::error() in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 40
+[02-Mar-2022 11:51:16 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 3
+[02-Mar-2022 12:08:47 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 3
+[02-Mar-2022 12:08:55 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 3
+[02-Mar-2022 12:09:04 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 3
+[02-Mar-2022 12:09:04 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 25
+[02-Mar-2022 12:09:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::error() in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 25
+[02-Mar-2022 12:10:06 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 84
+[02-Mar-2022 12:10:11 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 84
+[02-Mar-2022 12:10:14 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 84
+[02-Mar-2022 12:10:18 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 84
+[02-Mar-2022 13:30:21 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/head.php on line 2
+[02-Mar-2022 13:31:35 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/head.php on line 2
+[02-Mar-2022 13:35:15 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/head.php on line 2
+[02-Mar-2022 13:37:07 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/head.php on line 2
+[02-Mar-2022 13:39:28 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/head.php on line 2
+[02-Mar-2022 13:48:39 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/head.php on line 2
+[02-Mar-2022 17:03:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::error() in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 53
+[02-Mar-2022 17:04:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::error() in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 53
+[02-Mar-2022 17:04:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::error() in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 53
+[02-Mar-2022 17:07:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::error() in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 53
+[02-Mar-2022 17:07:23 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 84
+[02-Mar-2022 17:08:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::error() in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 53
+[02-Mar-2022 17:08:38 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 114
+[02-Mar-2022 18:22:54 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 84
+[02-Mar-2022 18:23:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::error() in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 53
+[02-Mar-2022 18:29:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::error() in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 53
+[02-Mar-2022 18:36:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::error() in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 53
+[02-Mar-2022 18:40:47 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 54
+[02-Mar-2022 18:41:16 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 54
+[02-Mar-2022 18:41:47 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 84
+[02-Mar-2022 18:45:14 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/process.php on line 84
+[02-Mar-2022 18:47:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/head.php:5) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/check_user.php on line 79
+[02-Mar-2022 18:47:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/head.php:5) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/check_user.php on line 79
+[02-Mar-2022 18:47:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/head.php:5) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/check_user.php on line 79
+[02-Mar-2022 19:17:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/head.php:5) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/sales and deals.php on line 7
+[02-Mar-2022 19:17:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/head.php:5) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/sales and deals.php on line 7
+[02-Mar-2022 19:17:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/head.php:5) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/sales and deals.php on line 7
+[02-Mar-2022 19:17:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/head.php:5) in /home/learnexusco/public_html/MultivendorWeb/MultivendorWeb/sales and deals.php on line 7
